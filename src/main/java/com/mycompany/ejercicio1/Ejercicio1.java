@@ -35,14 +35,12 @@ public class Ejercicio1 {
         t2.mostrarEstilo();
         t2.mostrarDimension();
         System.out.println("Su área es: "+t2.area());
+
         
-        
-        //PARA EL CUADRADO
-        System.out.println("============================================");
-        System.out.println("PARA EL CUADRADO");
-        Cuadrado Cuadrado = new Cuadrado();
+        System.out.println("========================================");
+     
+        Cuadrado Cuadrado = new Cuadrado();          
         System.out.println("El área del cuadrado es: "+Cuadrado.area());
-        System.out.println("============================================");
 
     }
 }
