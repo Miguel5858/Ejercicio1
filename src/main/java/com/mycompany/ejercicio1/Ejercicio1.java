@@ -3,6 +3,7 @@
  */
 
 package com.mycompany.ejercicio1;
+//miguelito
 
 import javax.swing.JOptionPane;
 
